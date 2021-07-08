@@ -1,0 +1,25 @@
+table tr td{
+border: 1px solid green;
+padding:1px;
+
+}
+table{
+    border-collapse: collapse;
+    background-color: burlywood;
+}
+    
+    
+table th {
+    border: 2px solid grey;
+
+}
+fieldset{
+    border: 1px solid red;
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+form{
+    margin-left: 40px;
+    padding: 20px;
+}
